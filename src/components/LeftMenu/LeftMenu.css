@@ -1,0 +1,48 @@
+body {
+    overflow-x: hidden;
+}
+
+.leftMenu {
+    display: block;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    position: sticky;
+    width: 250px;
+    background-color: #325ECD;
+}
+
+.menu {
+    padding-top: 150px;
+}
+
+.menu li {
+    font-size: 20px;
+    margin-bottom: 20px;
+    background-color: #325ECD;
+    color: white !important;
+    padding: 15px 0;
+    font-weight: bold;
+    padding-left: 25px;
+    text-decoration: none;
+}
+
+.yol {
+    text-decoration: none;
+    color: white;
+}
+
+.menu li:hover {
+    background-color: white;
+    color: #325ECD !important;
+    border-radius: 0 -30px -40px 0;
+}
+
+.menu li:hover .yol {
+    background-color: white;
+    color: #325ECD !important;
+    border-radius: 0 -30px -40px 0;
+}
+
+
+

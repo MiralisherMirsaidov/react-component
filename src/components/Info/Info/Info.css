@@ -1,0 +1,18 @@
+.info {
+    width: 100% !important;
+}
+
+.infoUsers {
+    height: 550px;
+    border: 1px solid #D3E0FF;
+    border-radius: 30px;
+}
+
+.inputUser {
+    border: 1px solid #D3E0FF;
+    border-radius: 20px;
+}
+
+.jonatishBtn{
+    border-radius:10px;
+}

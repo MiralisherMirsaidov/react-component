@@ -1,0 +1,32 @@
+.search {
+    width: 500px;
+    border-radius: 20px;
+    background-color: #EAF0FF;
+    position: relative;
+}
+
+.translate-middle {
+    top: 60px;
+    left: 962px;
+}
+
+.search::placeholder {
+    color: #4880FF !important;
+    padding-left: 10px;
+}
+
+.searchIcon {
+    position: absolute;
+    margin-top: -25px;
+    left: 850px;
+    color: #0a3395;
+}
+
+.bell {
+    color: #4880FF;
+    position: relative;
+}
+
+.user {
+    color: #8eaaf1;
+}

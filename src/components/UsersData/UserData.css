@@ -1,0 +1,30 @@
+.searchId {
+    border-radius: 30px;
+    background: #EAF0FF;
+}
+
+thead {
+    padding: 20px 0;
+}
+
+.nomlari {
+    padding-left: 20px !important;
+    border: 1px solid #D3E0FF;
+    border-radius: 20px;
+    margin-bottom: 10px !important;
+}
+
+.menuu {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    right: 25px;
+}
+
+.threedotted{
+    cursor: pointer;
+} 
+.threedotted:hover .menuu {
+    display: block !important;
+
+}
